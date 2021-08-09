@@ -1,1 +1,3 @@
-../.dots/zsh/git/README.md
+# KiCad memos to myself
+
+Feel free to reuse.
